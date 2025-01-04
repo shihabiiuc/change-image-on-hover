@@ -36,6 +36,6 @@ img {
   bottom: 0;
   left: 0;
   opacity: 0;
-  -webkit-transition: opacity 0.5s ease-in;
-  transition: opacity 0.5s ease-in;
+  -webkit-transition: 0.5s ease-in;
+  transition: 0.5s ease-in;
 }/*# sourceMappingURL=style.css.map */
